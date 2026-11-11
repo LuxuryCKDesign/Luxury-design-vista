@@ -10,5 +10,3 @@ Páginas públicas que abren los QR y links que genera la app **Luxury Design**.
   no lleva precios ni llaves: los precios y la llave pública del taller vienen en el link del QR.
 - No se edita a mano: se genera desde el repo `Luxury-design` con `npm run viewer`, que escribe la carpeta `site/`,
   y se copia aquí.
-- `guia/`: la guía de Luxury Design para el personal del taller (videos, guía completa y PDF). No la genera
-  `npm run viewer`: al copiar `site/` aquí, no borres esta carpeta.
